@@ -1,0 +1,162 @@
+{
+  "name": "Shikhor Kumer Roy",
+  "designation": "Principal Software Engineer",
+  "email": "shikhorroy.cse12@gmail.com",
+  "address": "Dhaka, Bangladesh",
+  "dob": "1994-01-27",
+  "picturePath": "assets/images/Roy.v2.png",
+  "introduction": "6.5+ years of software mastery, wielding Java, Spring Boot, Hibernate, Docker, and Kubernetes.I craft high performance RESTful APIs and microservices, fluent in different databases (MySQL, PostgreSQL, Couchbase) and UI languages (HTML, CSS, ReactJS). My expertise in tools like Maven, Gradle, Jenkins, and Git ensures efficiency and precision.",
+  "testimonials": [
+    {
+      "_name": "Kris Martis",
+      "_date": "2022-11-07",
+      "_imagePath": "assets/images/testimonials/kris martis.jpeg",
+      "_description": "Shikhor is passionate IT professional and provides unique solutions through the development of creative and innovative software. He has tremendous potential to do much better if guided in the right direction. Shikhor addressed every assignment enthusiastically as he was directed in the projects that he was involved in. He is friendly, sociable, and a respected team player."
+    },
+    {
+      "_name": "Mehadi mehadi",
+      "_date": "2022-01-11",
+      "_imagePath": "assets/images/testimonials/mehadi hossain.jpg",
+      "_description": "Shikhor Kumer Roy is a real pleasure to work with and has great expertise in competitive programming, java, spring. When you get to connect with him, you will find an amazing person with exceptional skills! He is extremely enthusiastic about his work which is infectious.Give him the really challenging tasks, the ones that everyone else is struggling with, and he will get them done. On account of his mature approach to his responsibilities, I often thought of him as a professional I could always rely upon to get the job done. He is a trustworthy individual and I will always hold him in the highest esteem."
+    }
+  ],
+  "professionalFocus": [
+    {
+      "_title": "Backend Development",
+      "_icon": "laptop",
+      "_description": "High-performance RESTful APIs, microservices architecture, and backend optimization.",
+      "Technologies": "Java, Spring Boot, Hibernate.",
+      "Tools": "Maven, Gradle."
+    },
+    {
+      "_title": "Database Management",
+      "_icon": "cube",
+      "Databases": "MySQL, PostgreSQL, Couchbase.",
+      "Skills": "Schema design, optimization, query performance tuning, and integrating databases with backend services."
+    },
+    {
+      "_title": "Frontend Development",
+      "_icon": "snow",
+      "Technologies": "HTML, CSS, ReactJS.",
+      "Skills": "Responsive UI design, creating reusable components, and dynamic web application development."
+    },
+    {
+      "_title": "Container Management",
+      "_icon": "boat",
+      "Technologies": "Docker, Kubernetes.",
+      "Skills": "Containerized application deployment, scaling microservices, and managing distributed systems."
+    },
+    {
+      "_title": "DevOps & CI/CD",
+      "_icon": "infinite",
+      "Technologies": "Jenkins, Git.",
+      "Skills": "Automating build, test, and deployment pipelines to ensure rapid and reliable software delivery."
+    },
+    {
+      "_title": "Software Architecture",
+      "_icon": "grid",
+      "Focus Area": "Microservices architecture, system design, and design patterns."
+    },
+    {
+      "_title": "Testing and Reliability",
+      "_icon": "flask",
+      "Testing": "JUnit 5 & Mockito to write unit tests and integration tests.",
+      "Performance Testing": "Leveraging Java MBean metrics, Prometheus, and Grafana to monitor, analyze, and optimize the performance of deployed applications for scalability and efficiency."
+    }
+  ],
+  "socialLink": [
+    {
+      "_icon": "link-outline",
+      "href": "https://shikhorroy.hashnode.dev/"
+    },
+    {
+      "_icon": "logo-youtube",
+      "href": "https://www.youtube.com/@startwithshikhorroy"
+    },
+    {
+      "_icon": "logo-github",
+      "href": "https://github.com/shikhorroy"
+    },
+    {
+      "_icon": "logo-linkedin",
+      "href": "https://www.linkedin.com/in/shikhorroy/"
+    }
+  ],
+  "education": [
+    {
+      "_institution": "Hajee Mohammad Danesh Science & Technology University | Dinajpur, Bangladesh",
+      "_year": "2012 - 2015 (Held in 2016)",
+      "_subject": "B. Sc. in Computer Science and Engineering (CGPA 3.26 out of 4.0)"
+    },
+    {
+      "_institution": "Kurigram Govt. College | Kurigram, Bangladesh",
+      "_year": "2010",
+      "_subject": "Group: Science (GPA 5.0 out of 5.0)"
+    },
+    {
+      "_institution": "Nazimkhan High School & College | Kurigram, Bangladesh",
+      "_year": "2008",
+      "_subject": "Group: Science (GPA 5.0 out of 5.0)"
+    }
+  ],
+  "experience": [
+    {
+      "_institution": "BJIT Limited | Dhaka, Bangladesh",
+      "_designation": "Principal Software Engineer (Java) | Mar 2020 - Present",
+      "Tools and Tech": "Java 21, Spring Boot, Spring, Webflux, MySQL, Couchbase, Resilience4j, JUnit 5, Mockito, Kafka, Groovy, Python 3, ReactJs, SonarQube, Prometheus, Grafana, ELK, Jenkins, Docker, Kubernetes."
+    },
+    {
+      "_institution": "Ethics Advanced Technology Limited | Dhaka, Bangladesh",
+      "_designation": "Software Engineer (Java) | Nov 2019 - Feb 2020",
+      "Tools and Tech": "Java 8, Spring Boot, JPA, Hibernate, JHipster, Kafka, MSSQL, Liquibase, Swagger."
+    },
+    {
+      "_institution": "Digitruck Bangladesh | Dhaka, Bangladesh",
+      "_designation": "Lead Software Engineer (Android, Kotlin) | Aug 2019 - Sep 2019",
+      "Tools and Tech": "Android, MVVM Architecture (Android Jetpack), Firebase Cloud, Gradle."
+    },
+    {
+      "_institution": "Divine IT Limited | Dhaka, Bangladesh",
+      "_designation": "Software Engineer (Java) | Nov 2017 - Jul 2019",
+      "Tools and Tech": "Java 8, Spring Boot, JPA, Hibernate, jQuery, BIRT, MySQL, PostgreSQL, MSSQL."
+    }
+  ],
+  "skills": [
+    {
+      "_name": "Java",
+      "_pct": 80
+    },
+    {
+      "_name": "Spring Boot",
+      "_pct": 80
+    },
+    {
+      "_name": "Vanilla JS",
+      "_pct": 60
+    },
+    {
+      "_name": "Docker & Kubernetes",
+      "_pct": 50
+    }
+  ],
+  "blogPosts": [
+    {
+      "_title": "Design Patterns (in Java)",
+      "_description": "Ultimate OOP best practices in easy way!",
+      "_publishedDate": "2024-11-01",
+      "_href": "https://shikhorroy.hashnode.dev/series/design-patterns",
+      "_imagePath": "assets/images/blog/Design Patterns.png",
+      "_imageAlt": "Design Patterns",
+      "_category": "System Design"
+    },
+    {
+      "_title": "Java Comprehensive Course",
+      "_description": "Java Basic to Advanced Comprehensive Course!",
+      "_publishedDate": "2024-06-01",
+      "_href": "https://youtube.com/playlist?list=PLXy1aC3c1fet-7BLmCOZ3oHalcaZanJG8&si=RouZk5WFOKlW0q05",
+      "_imagePath": "assets/images/blog/Java B2A Course.png",
+      "_imageAlt": "Java Basic to Advanced Comprehensive Course",
+      "_category": "Java"
+    }
+  ]
+}
