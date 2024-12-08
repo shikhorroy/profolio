@@ -161,21 +161,47 @@ body {
 /*-----------------------------------*\
   #Roy STYLE
 \*-----------------------------------*/
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #2a2a2a;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    text-align: center;
+    color: var(--orange-yellow-crayola);
+}
 table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
     width: 100%;
-    color: white;
+    border-collapse: collapse;
+    margin: 20px 0;
 }
-
-td, th {
-    border: 1px solid #dddddd;
+th, td {
+    padding: 12px 15px;
     text-align: left;
-    padding: 8px;
+    border-bottom: 1px solid #444;
 }
-
+th {
+    background-color: #333;
+    color: var(--orange-yellow-crayola);
+}
 tr:nth-child(even) {
-    /*background-color: #dddddd;*/
+    background-color: #2e2e2e;
+}
+tr:hover {
+    background-color: #444;
+    cursor: pointer;
+}
+td.rank {
+    text-align: center;
+    font-weight: bold;
+    color: var(--orange-yellow-crayola);
+}
+td:nth-child(1), td:nth-child(2), td:nth-child(3) {
+    color: #fff;
 }
 
 .center-align {
