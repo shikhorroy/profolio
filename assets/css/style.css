@@ -343,22 +343,22 @@ article.active {
     border-radius: 3px;
 }
 
-.has-scrollbar::-webkit-scrollbar {
+.has-scrollbar::-webkit-scrollbar, .project-item::-webkit-scrollbar {
     width: 5px; /* for vertical scrollbar */
     height: 5px; /* for horizontal scrollbar */
 }
 
-.has-scrollbar::-webkit-scrollbar-track {
+.has-scrollbar::-webkit-scrollbar-track, .project-item::-webkit-scrollbar-track {
     background: var(--onyx);
     border-radius: 5px;
 }
 
-.has-scrollbar::-webkit-scrollbar-thumb {
+.has-scrollbar::-webkit-scrollbar-thumb, .project-item::-webkit-scrollbar-thumb {
     background: var(--orange-yellow-crayola);
     border-radius: 5px;
 }
 
-.has-scrollbar::-webkit-scrollbar-button {
+.has-scrollbar::-webkit-scrollbar-button, .project-item::-webkit-scrollbar-button {
     width: 20px;
 }
 
