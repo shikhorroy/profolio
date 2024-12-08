@@ -63,15 +63,15 @@
                     </div>
                 </li>
 
-<!--                <li class="contact-item">-->
-<!--                    <div class="icon-box">-->
-<!--                        <ion-icon name="phone-portrait-outline"></ion-icon>-->
-<!--                    </div>-->
-<!--                    <div class="contact-info">-->
-<!--                        <p class="contact-title">Phone</p>-->
-<!--                        <a href="#" class="contact-link" id="phone">+8801xxxxxxxxx</a>-->
-<!--                    </div>-->
-<!--                </li>-->
+                <!--                <li class="contact-item">-->
+                <!--                    <div class="icon-box">-->
+                <!--                        <ion-icon name="phone-portrait-outline"></ion-icon>-->
+                <!--                    </div>-->
+                <!--                    <div class="contact-info">-->
+                <!--                        <p class="contact-title">Phone</p>-->
+                <!--                        <a href="#" class="contact-link" id="phone">+8801xxxxxxxxx</a>-->
+                <!--                    </div>-->
+                <!--                </li>-->
 
                 <li class="contact-item">
                     <div class="icon-box">
@@ -108,23 +108,20 @@
           - #NAVBAR
         -->
         <nav class="navbar">
-
             <ul class="navbar-list">
-
                 <li class="navbar-item">
                     <button class="navbar-link  active" data-nav-link>About</button>
                 </li>
-
                 <li class="navbar-item">
                     <button class="navbar-link" data-nav-link>Resume</button>
                 </li>
-
+                <li class="navbar-item">
+                    <button class="navbar-link" data-nav-link>Competitive Programming</button>
+                </li>
                 <li class="navbar-item">
                     <button class="navbar-link" data-nav-link>Blog</button>
                 </li>
-
             </ul>
-
         </nav>
 
         <!--
@@ -225,6 +222,148 @@
             </section>
         </article>
 
+        <!--
+          - #Competitive Programming
+        -->
+        <article class="portfolio" data-page="competitive programming">
+            <header>
+                <h2 class="h2 article-title">CP</h2>
+            </header>
+
+            <section class="projects">
+                <ul class="filter-list">
+                    <li class="filter-item">
+                        <button class="active" data-filter-btn>Onsite Contests</button>
+                    </li>
+                    <li class="filter-item">
+                        <button data-filter-btn>OJ Profiles</button>
+                    </li>
+                </ul>
+
+                <div class="filter-select-box">
+                    <button class="filter-select" data-select>
+                        <div class="select-value" data-select-value>Select category</div>
+                        <div class="select-icon">
+                            <ion-icon name="chevron-down"></ion-icon>
+                        </div>
+                    </button>
+                    <ul class="select-list">
+                        <li class="select-item">
+                            <button data-select-item>Onsite Contests</button>
+                        </li>
+                        <li class="select-item">
+                            <button data-select-item>OJ Profiles</button>
+                        </li>
+                    </ul>
+                </div>
+
+                <ul class="project-list-full-width">
+                    <li class="project-item active" data-filter-item data-category="onsite contests">
+                        <table>
+                            <tr>
+                                <th>#</th>
+                                <th>Contest</th>
+                                <th>Rank</th>
+                            </tr>
+                            <tr>
+                                <td>1</td>
+                                <td>NSU IUPC 2013</td>
+                                <td>35</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>JNU IUPC 2013</td>
+                                <td>06</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>ICPC Dhaka Regional 2014</td>
+                                <td>24</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>RUET IUPC 2014</td>
+                                <td>03</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>ICPC Dhaka Regional 2015</td>
+                                <td>64</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>ICPC Dhaka Regional 2016</td>
+                                <td>48</td>
+                            </tr>
+                        </table>
+                    </li>
+
+                    <li class="project-item" data-filter-item data-category="oj profiles">
+                        <table>
+                            <tr>
+                                <th>#</th>
+                                <th>OJ</th>
+                                <th>Solved</th>
+                                <th>Profile</th>
+                            </tr>
+                            <tr>
+                                <td>1</td>
+                                <td>UVA OJ</td>
+                                <td>400+</td>
+                                <td>
+                                    <a href="https://uhunt.onlinejudge.org/id/162220" target="_blank"
+                                       class="image-link">
+                                        <img src="assets/images/oj/uva.png" alt="UVA OJ">
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Codeforces (Best: Specialist)</td>
+                                <td>500+</td>
+                                <td>
+                                    <a href="https://codeforces.com/profile/slow.coder" target="_blank"
+                                       class="image-link">
+                                        <img src="assets/images/oj/codeforces.png" alt="Codeforces">
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Codechef</td>
+                                <td>50+</td>
+                                <td>
+                                    <a href="https://www.codechef.com/users/shikhorroy" target="_blank"
+                                       class="image-link">
+                                        <img src="assets/images/oj/codechef.png" alt="Codechef">
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>CSES</td>
+                                <td>30+</td>
+                                <td>
+                                    <a href="https://cses.fi/user/72804/" target="_blank" class="image-link">
+                                        <img src="assets/images/oj/cses.png" alt="CSES">
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>Leetcode</td>
+                                <td>100+</td>
+                                <td>
+                                    <a href="https://leetcode.com/u/shikhorroy/" target="_blank" class="image-link">
+                                        <img src="assets/images/oj/leetcode.png" alt="Leetcode">
+                                    </a>
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                </ul>
+            </section>
+        </article>
         <!--
           - #BLOG
         -->

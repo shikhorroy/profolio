@@ -161,6 +161,23 @@ body {
 /*-----------------------------------*\
   #Roy STYLE
 \*-----------------------------------*/
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: white;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    /*background-color: #dddddd;*/
+}
+
 .center-align {
     display: flex;
     justify-content: center;
@@ -175,6 +192,15 @@ body {
     color: var(--orange-yellow-crayola);
 }
 
+.image-link {
+    display: inline-block;
+}
+
+.image-link > img {
+    height: 30px;
+    width: 30px;
+    border-radius: 20%;
+}
 
 /*-----------------------------------*\
   #REUSED STYLE
