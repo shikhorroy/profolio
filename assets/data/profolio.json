@@ -1,11 +1,11 @@
 {
   "name": "Shikhor Kumer Roy",
-  "designation": "Principal Software Engineer",
+  "designation": "Sr. Software Engineer",
   "email": "shikhorroy.cse12@gmail.com",
   "address": "Dhaka, Bangladesh",
   "dob": "1994-01-27",
   "picturePath": "assets/images/Roy.v2.png",
-  "introduction": "6.5+ years of software mastery, wielding Java, Spring Boot, Hibernate, Docker, and Kubernetes.I craft high performance RESTful APIs and microservices, fluent in different databases (MySQL, PostgreSQL, Couchbase) and UI languages (HTML, CSS, ReactJS). My expertise in tools like Maven, Gradle, Jenkins, and Git ensures efficiency and precision.",
+  "introduction": "7+ years of software mastery, wielding Java, Spring Boot, Hibernate, Docker, and Kubernetes.I craft high performance RESTful APIs and microservices, fluent in different databases (MySQL, PostgreSQL, Couchbase) and UI languages (HTML, CSS, ReactJS). My expertise in tools like Maven, Gradle, Jenkins, and Git ensures efficiency and precision.",
   "testimonials": [
     {
       "_name": "Kris Martis",
@@ -101,8 +101,13 @@
   ],
   "experience": [
     {
+      "_institution": "Cefalo BD Ltd. | Dhaka, Bangladesh",
+      "_designation": "Sr. Software Engineer | Mar 2025 - Present",
+      "Tools and Tech": "Kotlin, Spring Boot, Spring, PostgreSQL, Angular, JUnit 5, Mockito, Kafka, Prometheus, Grafana, Debezium, Elasticsearch, Docker, Bitbucket (CI/CD), Azure."
+    },
+    {
       "_institution": "BJIT Limited | Dhaka, Bangladesh",
-      "_designation": "Principal Software Engineer (Java) | Mar 2020 - Present",
+      "_designation": "Principal Software Engineer (Java) | Mar 2020 - Feb 2025",
       "Tools and Tech": "Java 21, Spring Boot, Spring, Webflux, MySQL, Couchbase, Resilience4j, JUnit 5, Mockito, Kafka, Groovy, Python 3, ReactJs, SonarQube, Prometheus, Grafana, ELK, Jenkins, Docker, Kubernetes."
     },
     {
