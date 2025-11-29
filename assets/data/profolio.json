@@ -5,7 +5,7 @@
   "address": "Dhaka, Bangladesh",
   "dob": "1994-01-27",
   "picturePath": "assets/images/Roy.v2.png",
-  "introduction": "7+ years of software mastery, wielding Java, Spring Boot, Hibernate, Docker, and Kubernetes.I craft high performance RESTful APIs and microservices, fluent in different databases (MySQL, PostgreSQL, Couchbase) and UI languages (HTML, CSS, ReactJS). My expertise in tools like Maven, Gradle, Jenkins, and Git ensures efficiency and precision.",
+  "introduction": "{{EXPERIENCE}} of software mastery, wielding Java, Spring Boot, Hibernate, Docker, and Kubernetes.I craft high performance RESTful APIs and microservices, fluent in different databases (MySQL, PostgreSQL, Couchbase) and UI languages (HTML, CSS, ReactJS). My expertise in tools like Maven, Gradle, Jenkins, and Git ensures efficiency and precision.",
   "testimonials": [
     {
       "_name": "Kris Martis",
@@ -102,27 +102,37 @@
   "experience": [
     {
       "_institution": "Cefalo BD Ltd. | Dhaka, Bangladesh",
-      "_designation": "Sr. Software Engineer | Mar 2025 - Present",
+      "_designation": "Sr. Software Engineer",
+      "start": "Mar 2025",
+      "end": "Present",
       "Tools and Tech": "Kotlin, Spring Boot, Spring, PostgreSQL, Angular, JUnit 5, Mockito, Kafka, Prometheus, Grafana, Debezium, Elasticsearch, Docker, Bitbucket (CI/CD), Azure."
     },
     {
       "_institution": "BJIT Limited | Dhaka, Bangladesh",
-      "_designation": "Principal Software Engineer (Java) | Mar 2020 - Feb 2025",
+      "_designation": "Principal Software Engineer (Java)",
+      "start": "Mar 2020",
+      "end": "Feb 2025",
       "Tools and Tech": "Java 21, Spring Boot, Spring, Webflux, MySQL, Couchbase, Resilience4j, JUnit 5, Mockito, Kafka, Groovy, Python 3, ReactJs, SonarQube, Prometheus, Grafana, ELK, Jenkins, Docker, Kubernetes."
     },
     {
       "_institution": "Ethics Advanced Technology Limited | Dhaka, Bangladesh",
-      "_designation": "Software Engineer (Java) | Nov 2019 - Feb 2020",
+      "_designation": "Software Engineer (Java)",
+      "start": "Nov 2019",
+      "end": "Feb 2020",
       "Tools and Tech": "Java 8, Spring Boot, JPA, Hibernate, JHipster, Kafka, MSSQL, Liquibase, Swagger."
     },
     {
       "_institution": "Digitruck Bangladesh | Dhaka, Bangladesh",
-      "_designation": "Lead Software Engineer (Android, Kotlin) | Aug 2019 - Sep 2019",
+      "_designation": "Lead Software Engineer (Android, Kotlin)",
+      "start": "Aug 2019",
+      "end": "Sep 2019",
       "Tools and Tech": "Android, MVVM Architecture (Android Jetpack), Firebase Cloud, Gradle."
     },
     {
       "_institution": "Divine IT Limited | Dhaka, Bangladesh",
-      "_designation": "Software Engineer (Java) | Nov 2017 - Jul 2019",
+      "_designation": "Software Engineer (Java)",
+      "start": "Nov 2017",
+      "end": "Jul 2019",
       "Tools and Tech": "Java 8, Spring Boot, JPA, Hibernate, jQuery, BIRT, MySQL, PostgreSQL, MSSQL."
     }
   ],
