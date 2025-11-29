@@ -150,7 +150,15 @@
       "_pct": 60
     },
     {
+      "_name": "Angular",
+      "_pct": 10
+    },
+    {
       "_name": "Docker & Kubernetes",
+      "_pct": 50
+    },
+    {
+      "_name": "Azure Cloud",
       "_pct": 50
     }
   ],
